@@ -49,7 +49,8 @@
   - 응용 프로그램이 네트워크를 사용하려면 운영체제에서 네트워크 프로토콜을 지원해야한다.
  
  ## 운영체제의 구조
-![image](https://github.com/occoli/cs_temp/assets/155591951/8ef8dab4-e8c3-4a92-9117-343d2cbce56d)
+<img width = "80%" src="./image/image_01.png">
+
 
 - 커널(Kernel)
   - 하드웨어와 응용 프로그램 간의 상호작용 관리
